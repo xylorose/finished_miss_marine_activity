@@ -16,4 +16,4 @@ node index.js
 
 
 ## Let's start
-You will find the instruction in the index.js file.
+You will find the instructions in the index.js file.
