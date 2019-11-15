@@ -1,4 +1,4 @@
-# REST Exercice project
+# REST Exercise project
 
 This project is an exercice for understand and manipulate HTTP Requests. It's also a good pratice for manipulate array in JS.
 
