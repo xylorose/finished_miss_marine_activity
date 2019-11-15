@@ -1,6 +1,6 @@
 # REST Exercise project
 
-This project is an exercice for understand and manipulate HTTP Requests. It's also a good pratice for manipulate array in JS.
+This project is an exercise for understand and manipulate HTTP Requests. It's also a good pratice for manipulate array in JS.
 
 ## Set up the project
 
