@@ -30,7 +30,7 @@ let recipes = [
     { id:3, name: 'Pizza with peppers', ingredients:["pasta","onion", "peppers", "ham", "tomato sauce", "cheese"], purchasePrice:80, sellingPrice:110}
 ]
 
-// Question 1 : As a manager you want to fetch all the recipe. 
+// Question 1 : As a manager you want to fetch all the recipes. 
 // Create a HTTP Request :
 
 
