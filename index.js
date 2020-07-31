@@ -4,7 +4,7 @@ const port = 3436
 const bodyParser= require('body-parser')
 
 //
-// Requirement for set up the exercise
+// Requirement to set up the exercise
 //
 app.use(bodyParser.json()); // parse requests of content-type - application/json
 
@@ -19,7 +19,7 @@ app.use(function(req, res, next) {
 // Let's start the exercise :
 // 
 // You have a restaurant and you want to manage the menu :
-// You need to know which recipes you can sold and which ingredients you need to use,
+// You need to know which recipe you can sold and which ingredients you need to use,
 // you also need to know what is the purchase price of a dish and what is the price you are selling it.
 // ------------------------------
 
@@ -31,33 +31,33 @@ let recipes = [
 ]
 
 // Question 1 : As a manager you want to fetch all the recipes. 
-// Create a HTTP Request :
+// Create an HTTP Request :
 
 
-// Question 2 : As a manager you want to get only one recipe depends on his id.
-// Create a HTTP Request :
+// Question 2 : As a manager you want to get only one recipe depends on its id.
+// Create an HTTP Request :
 
 
 // Question 3 : As a manager you want to modify the selling price of only one recipe.
-// Create a HTTP Request :
+// Create an HTTP Request :
 
 
 // Question 4 : As a manager you want to delete one recipe from the recipes list
-// Create a HTTP Request :
+// Create an HTTP Request :
 
 
 // Question 5 : As a manager you want to add a new recipe in the recipes list.
-// Create a HTTP Request :
+// Create an HTTP Request :
 
 
 // Question 6 : As a manager you want to get all the recipes which contains a special ingredients. 
 // For example you want to know which recipe contains cheese.
-// Create a HTTP Request :
+// Create an HTTP Request :
 
 
-// Question 7 : As a manager you want to get all the recipes' name. 
-// For example he want to know which recipe contains cheese.
-// Create a HTTP Request :
+// Question 7 : As a manager you want to get all the recipes' name which contains a special ingredients.
+// For example you want to know which recipes' name contains cheese.
+// Create an HTTP Request :
 
 
 //
